@@ -5,7 +5,7 @@ import "@openzeppelin/contracts/utils/math/SafeMath.sol";
 // Todo: import {CampaignTypes} from "./CampaignTypes.sol";
 
 /// @title The crowdfunding platform
-/// @author Hassan shakil
+
 /// @dev This is a crowdfunding smart contract.
 contract CrowdFunding is Ownable {
     using SafeMath for uint256;
